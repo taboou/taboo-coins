@@ -2,7 +2,7 @@
 
 **The exclusive currency of the Taboo U Networks (TUN) will be Taboo Gold Coins (TABOO), created from the industry standard ERC-20 protocol on the Ethereum blockchain.**
 
-A total of 100 Million Gold Coins will be minted and distributed to participating online communities and through our key personnel *(see [Coin Distribution](#coin-distribution) below).* Market liquidity will be supported by the **[Taboo Ads Android App](https://tabooads.com/),** making it super-easy to buy and sell Taboo Gold peer-to-peer via the **[ForkDelta](https://forkdelta.github.io/)** (DEX) Decentralized Exchange.
+A total of 100 Million Gold Coins will be minted and distributed to participating online communities and through our key personnel *(see [Coin Distribution](#coin-distribution) below).* Market liquidity will be supported by the **[Taboo Ads Android App](https://tabooads.com/),** making it super-easy to buy and sell Taboo Gold peer-to-peer via the **[EtherDelta](https://etherdelta.com/#0xd67cb3d1a748e25b8768ebf4218c7903f4c84823-ETH) / [ForkDelta](https://forkdelta.github.io/#!/trade/0xd67cb3d1a748e25b8768ebf4218c7903f4c84823-ETH)** (DEX) Decentralized Exchange.
 
 ### Smart Contract Details
 
@@ -24,6 +24,10 @@ Decentralized trading platforms let you trade Ether and Ethereum-based tokens di
 [![EtherDelta](https://i.imgur.com/1one8dx.png)](https://etherdelta.com/#0xd67cb3d1a748e25b8768ebf4218c7903f4c84823-ETH)
 
 [Click here to trade TABOO on EtherDelta](https://etherdelta.com/#0xd67cb3d1a748e25b8768ebf4218c7903f4c84823-ETH)
+
+[![ForkDelta](https://i.imgur.com/NdXWeqI.png)](https://forkdelta.github.io/#!/trade/0xd67cb3d1a748e25b8768ebf4218c7903f4c84823-ETH)
+
+[Click here to trade TABOO on ForkDelta](https://forkdelta.github.io/#!/trade/0xd67cb3d1a748e25b8768ebf4218c7903f4c84823-ETH)
 
 ### Coin Distribution
 

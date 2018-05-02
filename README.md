@@ -2,7 +2,7 @@
 
 **Taboo Gold Coins (TABOO) are the exclusive currency of the Taboo U Networks (TUN), created from the industry standard ERC-20 protocol on the Ethereum blockchain.**
 
-A total of 100 Million Gold Coins will be minted and distributed to participating online communities and through our key personnel *(see **[Coin Distribution](#coin-distribution)** below).* Market liquidity will be supported by the **[Taboo Ads Android App](https://tabooads.com/),** making it super-easy to buy and sell Taboo Gold peer-to-peer via one of several **[(DEX) Decentralized Exchanges](#dex--decentralized-exchanges).**
+A total of **100 Million Gold Coins** were minted on April 29th, 2018. These coins are now being distributed to participating online communities and through our key personnel *(see **[Coin Distribution](#coin-distribution)** below).* Market liquidity will be supported by the **[Taboo Ads Android App](https://tabooads.com/),** making it super-easy to buy and sell Taboo Gold peer-to-peer via one of several **[(DEX) Decentralized Exchanges](#dex--decentralized-exchanges).**
 
 ### Smart Contract Details
 

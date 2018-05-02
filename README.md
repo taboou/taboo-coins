@@ -8,6 +8,8 @@ A total of 100 Million Gold Coins will be minted and distributed to participatin
 
 #### Address: [0xD67Cb3D1a748e25b8768EbF4218C7903F4C84823](https://etherscan.io/token/0xd67cb3d1a748e25b8768ebf4218c7903f4c84823)
 
+#### Source Code: [taboo-gold.sol](https://github.com/taboou/taboo-gold/blob/master/taboo-gold.sol)
+
     Symbol          TABOO
     Name            Taboo Gold
     Decimals        6

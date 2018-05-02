@@ -1,8 +1,10 @@
 # Taboo Gold
 
-TABOO Gold is an exclusive token used solely for utility functions within the Taboo U Networks (TUN).
+**The exclusive currency of the Taboo U Networks (TUN) will be Taboo Gold Coins (TABOO), created from the industry standard ERC-20 protocol on the Ethereum blockchain.**
 
-### Ethereum Smart Contract Details
+A total of 100 Million Gold Coins will be minted and distributed to participating online communities and through our key personnel *(see [Coin Distribution](#coin-distribution) below).* Market liquidity will be supported by the **[Taboo Ads Android App](https://tabooads.com/),** making it super-easy to buy and sell Taboo Gold peer-to-peer via the **[ForkDelta](https://forkdelta.github.io/)** (DEX) Decentralized Exchange.
+
+### Smart Contract Details
 
 ##### Address: [0xD67Cb3D1a748e25b8768EbF4218C7903F4C84823](https://etherscan.io/token/0xd67cb3d1a748e25b8768ebf4218c7903f4c84823)
 
@@ -19,7 +21,7 @@ TABOO Gold is an exclusive token used solely for utility functions within the Ta
     ~12% => (10-15) Key Operational Staff (36 months of vesting) 
      10% => (1) Technology Director (36 months of vesting) 
      10% => (1) Community Director (36 months of vesting) 
-      3% => Bootstrapping Period (up to 10K gold lots) 
+      3% => Bootstrapping Period (up to 10K gold coin lots) 
     
 *All monthly vesting begins 30 days after the Bootstrap Period has ended.*
         

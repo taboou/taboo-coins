@@ -1,10 +1,10 @@
-# Taboo Gold
+# Taboo Coins
 
-**Taboo Gold Coins (TABOO) are the exclusive currency of the Taboo U Networks (TUN), created from the industry standard ERC-20 protocol on the Ethereum blockchain.**
+**Taboo Gold & Silver Coins (TABOO) are the exclusive currency of the Taboo U Networks (TUN), created from the industry standard ERC-20 protocol on the Ethereum blockchain.**
 
-A total of **100 Million Gold Coins** were minted on April 29th, 2018. These coins are now being distributed to participating online communities and through our key personnel *(see **[Coin Distribution](#coin-distribution)** below).* Market liquidity will be supported by the **[Taboo Ads Android App](https://tabooads.com/),** making it super-easy to buy and sell Taboo Gold peer-to-peer via one of several **[(DEX) Decentralized Exchanges](#dex--decentralized-exchanges).**
+A total of **100 Million Gold Coins** were minted on April 29th, 2018 *(100M Silver were minted on May 2nd, 2018).* These coins are now being distributed to participating online communities and through our key personnel *(see **[Coin Distribution](#coin-distribution)** below).* Market liquidity will be supported by the **[Taboo Ads Android App](https://tabooads.com/),** making it super-easy to buy and sell Taboo Gold peer-to-peer via one of several **[(DEX) Decentralized Exchanges](#dex--decentralized-exchanges).** Taboo Silver support FREE TUN services and therefore will NOT be sold.
 
-### Smart Contract Details
+### Gold Contract Details
 
 #### Address: [0xD67Cb3D1a748e25b8768EbF4218C7903F4C84823](https://etherscan.io/token/0xd67cb3d1a748e25b8768ebf4218c7903f4c84823)
 
@@ -54,3 +54,15 @@ A total of **100 Million Gold Coins** were minted on April 29th, 2018. These coi
     0.5% => Adult Community Liaison(s) 
     0.5% => Foreign Affairs Director(s) 
     0.1% => Intern(s)
+
+### Silver Contract Details
+
+#### Address: [0x2B758418542D30B0B16247c5D96df9b5864C86EA](https://ropsten.etherscan.io/token/0x2B758418542D30B0B16247c5D96df9b5864C86EA) *on Ropsten*
+
+#### Source Code: [taboo-silver.sol](https://github.com/taboou/taboo-gold/blob/master/taboo-silver.sol)
+
+    Symbol          TABOO
+    Name            Taboo Silver
+    Decimals        6
+    Total Supply    100,000,000
+

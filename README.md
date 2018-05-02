@@ -6,7 +6,7 @@ A total of 100 Million Gold Coins will be minted and distributed to participatin
 
 ### Smart Contract Details
 
-##### Address: [0xD67Cb3D1a748e25b8768EbF4218C7903F4C84823](https://etherscan.io/token/0xd67cb3d1a748e25b8768ebf4218c7903f4c84823)
+#### Address: [0xD67Cb3D1a748e25b8768EbF4218C7903F4C84823](https://etherscan.io/token/0xd67cb3d1a748e25b8768ebf4218c7903f4c84823)
 
     Symbol          TABOO
     Name            Taboo Gold
@@ -15,7 +15,7 @@ A total of 100 Million Gold Coins will be minted and distributed to participatin
 
 ### DEX — Decentralized Exchanges
 
-Decentralized trading platforms let you trade Ether and Ethereum-based tokens directly with other users. You are responsible for your own account, funds, and private keys. You are responsible for your own trading decisions, and the details and mechanics of the tokens you trade.
+> Decentralized trading platforms let you trade Ether and Ethereum-based tokens directly with other users. You are responsible for your own account, funds, and private keys. You are responsible for your own trading decisions, and the details and mechanics of the tokens you trade.
 
 [![Token Store](https://i.imgur.com/4vsJx40.png)](https://token.store/trade/0xd67cb3d1a748e25b8768ebf4218c7903f4c84823)
 
